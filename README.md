@@ -1,8 +1,9 @@
-<h1 align="center">Nice to meet you, I'm Akayy</h1>
+<h1 align="center">Nice to meet you, I'm Joao Vitor</h1>
+<h1 align="center">but you can call me, Akayy!!</h1>
 
 ###
 
-<h3 align="center">My name is Akayy and I'm a Computer Science Student, from Brazil</h3>
+<h3 align="center">I'm a Computer Science Student, from Brazil</h3>
 
 ###
 
@@ -10,7 +11,7 @@
 
 ###
 
-<p align="center">📚 I'm currently learning ReactJs<br>🎯 Goals: . specialize as a Front-end developer</p>
+<p align="center">📚 I'm currently learning ReactJs and Python <br>🎯 Goals: . specialize as a Front-end developer</p>
 
 ###
 
