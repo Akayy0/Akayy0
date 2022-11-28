@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="center">I'm a Computer Science Student, from Brazil</h3>
+<h3 align="center">I'm a Computer Science Student, from Brazil </h3>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="center">📚 I'm currently learning ReactJs and Python <br>🎯 Goals: . specialize as a Front-end developer</p>
+<p align="center">📚 I'm currently learning ReactJs and Django <br>🎯 Goals: . specialize as a Front-end developer</p>
 
 ###
 
