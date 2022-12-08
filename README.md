@@ -11,7 +11,7 @@
 
 ###
 
-<p align="center">📚 I'm currently learning ReactJs and Django <br>🎯 Goals: . specialize as a Front-end developer</p>
+<p align="center">📚 I'm currently learning ReactJs and VueJS <br>🎯 Goals: . specialize as a Front-end developer</p>
 
 ###
 
