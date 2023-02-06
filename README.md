@@ -1,8 +1,8 @@
 <h1 align="center"> Joao Vitor (Akayy) - Front End Dev </h1>
 
-<h2>About me</h2>
+<h2 align="center">About me:</h2>
 
-<h3><b>Currently working with DataViva, and specializing myself as a Front-end developer</b><h3/>
+<h3 align="center"><b>Currently working with DataViva, and specializing myself as a Front-end developer</b><h3/>
 
 <h2 align="center">I code with</h2>
 
