@@ -1,5 +1,6 @@
-<h1 align="center">Nice to meet you, I'm Joao Vitor</h1>
-<h1 align="center">but you can call me, Akayy!!</h1>
+<h1 align="center">My name is Joao Vitor</h1>
+<h2 align="center">A Front end Developer from Brazil</h2>
+<h1 align="center">You can call me Akayy!!</h1>
 
 ###
 
