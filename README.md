@@ -1,23 +1,8 @@
-<h1 align="center">My name is Joao Vitor</h1>
-<h3 align="center">A Front end Developer from Brazil</h3>
+# Joao Vitor (Akayy) - Front End Dev
 
-###
+## About me
 
-<h1 align="center">You can call me Akayy!!</h1>
-
-###
-
-<h3 align="center">I'm a Computer Science Student, from Brazil </h3>
-
-###
-
-<h2 align="center">About me</h2>
-
-###
-
-<p align="center">📚 I'm currently learning ReactJs and VueJS <br>🎯 Goals: . specialize as a Front-end developer</p>
-
-###
+Currently working with DataViva, and specializing myself as a Front-end developer
 
 <h2 align="center">I code with</h2>
 
