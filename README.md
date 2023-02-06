@@ -1,7 +1,5 @@
 <h1 align="center">My name is Joao Vitor</h1>
-###
-<h2 align="center">A Front end Developer from Brazil</h2>
-###
+<h3 align="center">A Front end Developer from Brazil</h3>
 <h1 align="center">You can call me Akayy!!</h1>
 
 ###
