@@ -1,4 +1,4 @@
-<h1 align="center"> Joao Vitor (Akayy) - Front End Dev </h1>
+<h1 align="center"> Joao Vitor (Akayy) - Full Stack Dev </h1>
 
 <h2 align="center">About me:</h2>
 
