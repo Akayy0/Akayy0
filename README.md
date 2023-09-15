@@ -3,7 +3,7 @@
 # Joao Vitor (Akayy) - FullStack Developer:
 <h3>Dedicated and passionate Full-Stack Developer with 3 years of experience, committed to delivering innovative solutions and exceptional experiences.</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/joaovitorotoni/](https://www.linkedin.com/in/joaovitorotoni/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitorotoni/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22390705) 
 
 # 💻 Tech Stack:
