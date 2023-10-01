@@ -3,9 +3,6 @@
 # Joao Vitor (Akayy) - FullStack Developer:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitorotoni/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22390705) 
-
-
 
 <div align="center">
 
