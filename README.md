@@ -1,10 +1,18 @@
-<div align="center">
 
-# Joao Vitor (Akayy) - FullStack Developer:
+```diff
+@@  <Salve, eu sou o João>  @@
+
++ Desenvolvedor FullStack, mas com foco maior no front-end
+- Minha linguagem favorita e javascript (80% dos repo vai ser Js, pode conferir)
+! Estudo design por hobbie, e tento sempre implementar meus aprendizados no desenvolvimento
+# atualmente to estudando NodeJs e tailwind
+```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitorotoni/)
-
 <div align="center">
+
+
+
 
 # 💻 Tech Stack:
   
@@ -31,6 +39,8 @@
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-C.svg?style=for-the-badge&logo=figma&color=fff)
 </div>
+
+<div align="center">
 
 ---
 ![](https://github-readme-stats.vercel.app/api?username=Akayy0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
