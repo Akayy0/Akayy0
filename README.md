@@ -5,13 +5,13 @@
 + Desenvolvedor FullStack, mas com foco maior no front-end
 ! Minha linguagem favorita e javascript (80% dos repo vai ser Js, pode conferir)
 - Estudo design por hobbie, e tento sempre implementar meus aprendizados no desenvolvimento
-# atualmente to estudando NodeJs e tailwind
+# atualmente to estudando C# e tailwind
 ```
-<div align="center">
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitorotoni/)
 
-
+<div align="center">
 
 
 # 💻 Tech Stack:
