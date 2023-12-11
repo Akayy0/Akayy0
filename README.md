@@ -5,7 +5,7 @@
 + Desenvolvedor FullStack, mas com foco maior no front-end
 ! Minha linguagem favorita e javascript (80% dos repo vai ser Js, pode conferir)
 - Estudo design por hobbie, e tento sempre implementar meus aprendizados no desenvolvimento
-# atualmente eu to de ferias
+# voltei das ferias focado em Js e C#
 ```
 
 
